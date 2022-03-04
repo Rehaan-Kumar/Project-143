@@ -1,0 +1,40 @@
+.heading {
+    width: 100%;
+}
+
+h1 {
+    display: inline;
+    height: 80% !important;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.instructions {
+    float: right;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+
+.start {
+    font-size: 20px;
+}
+
+.copy-right_footer {
+    line-height: 2;
+    background-color: #5BC0DE;
+    margin-bottom: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    color: white;
+}
+
+.modal-dialog {
+    width: 80%;
+}
+
+.image {
+    width: 45%;
+    display: inline;
+}
